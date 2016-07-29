@@ -1,0 +1,14 @@
+layout_spectrum: 0.06980095
+typography_spectrum: 0.5266438
+color:
+  saturation: 0.9254971
+  lightness: 0.836253
+  brandStrength: 0.678749
+  rhythmicContrast: 0.8216391
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Test3000
