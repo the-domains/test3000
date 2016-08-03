@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Test3000]]></title>
-        <description><![CDATA[Test3000]]></description>
+        <title><![CDATA[Eigene Headline]]></title>
+        <description><![CDATA[Eigene Headline]]></description>
         <link>https://thegrid.ai/test3000/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 07:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 07:23:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test3000/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0093718c-4302-49d6-99ac-fc4415254b99.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0093718c-4302-49d6-99ac-fc4415254b99.jpg</link>
+            <guid isPermaLink="false">6c85289f-6a6d-4644-b97a-668077c0c7d4</guid>
+            <pubDate>Wed, 03 Aug 2016 07:22:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Content Marketing Beats]]></title>
             <description><![CDATA[<article><h1>Content Marketing Beats</h1><p>Mitte Juli fand im Hamburger „Altes Mädchen“ zum ersten Mal die Veranstaltung Content Marketing Beats statt. Die Event Tour mit Stopps in Hamburg, Düsseldorf, Frankfurt und München wurde vom digitalen Publishing- und Vermarktungshaus BurdaForward zusammen mit CMCX, der Content-Marketing Conference & Exposition, auf die Beine gestellt.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/806cbea0-60e3-4aed-a4cd-fdc20cbeb9d3.jpg"></article>]]></description>
