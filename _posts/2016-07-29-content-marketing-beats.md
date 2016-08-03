@@ -1,28 +1,28 @@
 ---
-author: []
-title: Content Marketing Beats
+datePublished: '2016-08-03T07:15:32.687Z'
+sourcePath: _posts/2016-07-29-content-marketing-beats.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/806cbea0-60e3-4aed-a4cd-fdc20cbeb9d3.jpg
-dateModified: '2016-07-29T19:58:36.487Z'
-datePublished: '2016-07-29T20:02:22.159Z'
+author: []
+via: {}
+dateModified: '2016-08-03T07:15:32.296Z'
+title: Content Marketing Beats
+publisher:
+  name: Birte
 description: >-
   Mitte Juli fand im Hamburger „Altes Mädchen“ zum ersten Mal die Veranstaltung
   Content Marketing Beats statt. Die Event Tour mit Stopps in Hamburg,
   Düsseldorf, Frankfurt und München wurde vom digitalen Publishing- und
   Vermarktungshaus BurdaForward zusammen mit CMCX, der Content-Marketing
   Conference & Exposition, auf die Beine gestellt.
-publisher:
-  name: Birte
-via: {}
 starred: false
-sourcePath: _posts/2016-07-29-content-marketing-beats.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/806cbea0-60e3-4aed-a4cd-fdc20cbeb9d3.jpg)
+![Caption](https://the-grid-user-content.s3-us-west-2.amazonaws.com/806cbea0-60e3-4aed-a4cd-fdc20cbeb9d3.jpg)
 
 # Content Marketing Beats
 
@@ -52,3 +52,5 @@ Nach diesem letzten Vortrag kamen alle Vortragenden noch zu einer Fragerunde zus
 Abgerundet wurde die Veranstaltung dann mit einem Get-Together in netter Atmosphäre!
 
 Danke BurdaForward und CMCX für dieses tolle Event und bis zum nächsten Jahr!
+
+http://
