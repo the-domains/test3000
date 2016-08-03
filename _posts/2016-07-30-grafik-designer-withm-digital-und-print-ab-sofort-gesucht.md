@@ -19,11 +19,11 @@ inLanguage: de
 app_links: []
 isBasedOnUrl: 'http://blog.kbundb.de/grafikdesigner-wm-digital-und-print-ab-sofort-gesucht/'
 title: Grafik-Designer (w/m) Digital und Print ab sofort gesucht!
-datePublished: '2016-07-30T18:12:50.648Z'
-dateModified: '2016-07-30T18:12:36.390Z'
+datePublished: '2016-08-03T07:14:28.328Z'
+dateModified: '2016-08-03T07:14:28.182Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-07-30-grafik-designer-withm-digital-und-print-ab-sofort-gesucht.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
